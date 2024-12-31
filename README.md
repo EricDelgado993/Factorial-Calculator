@@ -13,7 +13,7 @@ This project is an ARM assembly program designed to calculate and display the fa
 ---
 
 ## 📂 Program File
-[Factorial_Calculator.s](https://github.com/EricDelgado993/Factorial-Calculator/blob/main/Lab4.s)
+- [Factorial_Calculator.s](https://github.com/EricDelgado993/Factorial-Calculator/blob/main/Lab4.s)
 
 ---
 

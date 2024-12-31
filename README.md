@@ -1,5 +1,7 @@
 # ARM Program Basic: Factorial Calculation
 
+---
+
 ## Overview
 This project is an ARM assembly program designed to calculate and display the factorial of integers up to a user-specified number. The program includes input validation, arithmetic operations, and loop controls, demonstrating foundational ARM Assembly concepts such as:
 - Output handling
@@ -10,7 +12,7 @@ This project is an ARM assembly program designed to calculate and display the fa
 
 ---
 
-## Program File
+## 📂 Program File
 [Factorial_Calculator.s](https://github.com/EricDelgado993/Factorial-Calculator/blob/main/Lab4.s)
 
 ---

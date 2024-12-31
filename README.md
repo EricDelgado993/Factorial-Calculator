@@ -8,7 +8,12 @@ This project is an ARM assembly program designed to calculate and display the fa
 - Arithmetic operations
 - Loop constructs
 
-Additionally, the program showcases debugging and proper code documentation using the GNU Debugger (GDB).
+---
+
+## Program File
+[Factorial_Calculator.s](https://github.com/EricDelgado993/Factorial-Calculator/blob/main/Lab4.s)
+
+---
 
 ## Features
 

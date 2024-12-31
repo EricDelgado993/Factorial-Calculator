@@ -1,5 +1,4 @@
 @ Eric Delgado
-@ ed0050@uah.edu
 @ CS309-01 2022
 @
 @ Filename: Lab4.s
